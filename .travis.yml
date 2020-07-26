@@ -1,0 +1,8 @@
+sudo: false
+
+language: csharp
+solution: MaiSoft.ViberBot.sln
+
+branches:
+  only:
+    - master
